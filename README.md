@@ -1,6 +1,6 @@
 # Getting and Cleaning Data Project
-By Michael Galarnyk <br />
-Data Zip File Location: [UC Irvine Repo](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip "Download the data")
+By Albert Setiawan <br />
+Data Zip File Location: [UC Irvine Data](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip "Download the data")
 
 ## Goal of the Project
 1. A tidy data set 
